@@ -1,0 +1,5 @@
+Nombre: Juan Pablo Rivera Sierra
+Edad: 21 años
+Aspiraciones: el poder comprender la lógica de la programación orientada a objetos para poder desarrollar programas
+o páginas de forma simple y entendible. También aspiro a que lo que aprenda en este curso lo pueda utilizar en mi
+trabajo y me ayude a mejorar.
