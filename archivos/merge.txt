@@ -1,1 +1,0 @@
-¿Por qué ahora puedo hacer un commit y subir la carpeta? R=/ Porque la carpeta ya no está vacía y, por lo tanto, Github la identifica como un cambio o un agregado
